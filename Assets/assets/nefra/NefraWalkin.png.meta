@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 77eb0ca45cf7a0542a9d8cc5c401f425
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nefra's four-frame walking sprite sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 486
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 23, y: 3, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578bf0521dbbc34d9aa103c1f91b07a
+      internalID: -1032191346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nefra's four-frame walking sprite sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2
+        width: 336
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 12, z: 39, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e8760db00f8448a6214f881f83bc8
+      internalID: -993836585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nefra's four-frame walking sprite sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 11
+        width: 562
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 73, y: 4, z: 65, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552237f40d4caa942ac1bfdc36b8f2ea
+      internalID: 1992733056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nefra's four-frame walking sprite sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 14
+        width: 389
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 23, y: 0, z: 57, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473808d4688108b44bf161f92a4412dd
+      internalID: -777237932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nefra's four-frame walking sprite sheet (1)_23: -754339493
+      Nefra's four-frame walking sprite sheet (1)_5: 1992733056
+      Nefra's four-frame walking sprite sheet (1)_50: 863431386
+      Nefra's four-frame walking sprite sheet (1)_53: -1269867810
+      Nefra's four-frame walking sprite sheet (1)_21: 1999627863
+      Nefra's four-frame walking sprite sheet (1)_30: -1917109883
+      Nefra's four-frame walking sprite sheet (1)_35: -1554034492
+      Nefra's four-frame walking sprite sheet (1)_18: -859690763
+      Nefra's four-frame walking sprite sheet (1)_6: -1344193258
+      Nefra's four-frame walking sprite sheet (1)_32: -1034514584
+      Nefra's four-frame walking sprite sheet (1)_9: 369614753
+      Nefra's four-frame walking sprite sheet (1)_39: 1028854307
+      Nefra's four-frame walking sprite sheet (1)_11: 2108683152
+      Nefra's four-frame walking sprite sheet (1)_38: -816953229
+      Nefra's four-frame walking sprite sheet (1)_41: -1556037674
+      Nefra's four-frame walking sprite sheet (1)_4: -2085782792
+      Nefra's four-frame walking sprite sheet (1)_25: 1352981294
+      Nefra's four-frame walking sprite sheet (1)_34: -728972424
+      Nefra's four-frame walking sprite sheet (1)_51: -241000871
+      Nefra's four-frame walking sprite sheet (1)_28: -1096654749
+      Nefra's four-frame walking sprite sheet (1)_37: -256088549
+      Nefra's four-frame walking sprite sheet (1)_46: 701305246
+      Nefra's four-frame walking sprite sheet (1)_33: 1852810576
+      Nefra's four-frame walking sprite sheet (1)_24: 1747454366
+      Nefra's four-frame walking sprite sheet (1)_2: 822792284
+      Nefra's four-frame walking sprite sheet (1)_44: 625680440
+      Nefra's four-frame walking sprite sheet (1)_49: 764614452
+      Nefra's four-frame walking sprite sheet (1)_13: 1698789351
+      Nefra's four-frame walking sprite sheet (1)_40: -1464347024
+      Nefra's four-frame walking sprite sheet (1)_47: -919776773
+      Nefra's four-frame walking sprite sheet (1)_8: -2076232284
+      Nefra's four-frame walking sprite sheet (1)_3: 1420024745
+      Nefra's four-frame walking sprite sheet (1)_19: -1517054443
+      Nefra's four-frame walking sprite sheet (1)_27: 1439640385
+      Nefra's four-frame walking sprite sheet (1)_36: 801160835
+      Nefra's four-frame walking sprite sheet (1)_14: 512573252
+      Nefra's four-frame walking sprite sheet (1)_0: -1032191346
+      Nefra's four-frame walking sprite sheet (1)_42: -1585669651
+      Nefra's four-frame walking sprite sheet (1)_22: -208906150
+      Nefra's four-frame walking sprite sheet (1)_26: 91527292
+      Nefra's four-frame walking sprite sheet (1)_1: -993836585
+      Nefra's four-frame walking sprite sheet (1)_45: 1448825054
+      Nefra's four-frame walking sprite sheet (1)_7: -777237932
+      Nefra's four-frame walking sprite sheet (1)_12: 1591622227
+      Nefra's four-frame walking sprite sheet (1)_29: -2115566778
+      Nefra's four-frame walking sprite sheet (1)_17: 583282976
+      Nefra's four-frame walking sprite sheet (1)_31: -994334988
+      Nefra's four-frame walking sprite sheet (1)_10: 459386622
+      Nefra's four-frame walking sprite sheet (1)_20: 1717736176
+      Nefra's four-frame walking sprite sheet (1)_52: 485722727
+      Nefra's four-frame walking sprite sheet (1)_15: -1951855283
+      Nefra's four-frame walking sprite sheet (1)_16: 528887519
+      Nefra's four-frame walking sprite sheet (1)_43: 241420444
+      Nefra's four-frame walking sprite sheet (1)_48: 302236498
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
